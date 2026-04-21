@@ -1,3 +1,4 @@
+// Phase 1 Step 2: Added header format logic
 // Phase 1 Step 1: Initial structure
 // object.c — Content-addressable object store
 //
